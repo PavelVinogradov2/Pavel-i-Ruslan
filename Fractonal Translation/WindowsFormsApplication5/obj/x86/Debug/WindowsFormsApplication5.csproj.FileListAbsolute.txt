@@ -1,0 +1,87 @@
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ПРОГРАММИРОВАНИЕ\C#\1. Мои ПРОЕКТЫ\Создание записной книги\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\ЕВГЕНИЙ\Downloads\Форма для ввода пароля\Форма для ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\1.  ПРОГРАММИРОВАНИЕ\1. ЯЗЫКИ\C#\Мои примеры для форума\Форма регистрации и ввода пароля\Форма регистрации и ввода пароля\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojAssemblyReference.cache
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\COMP\Downloads\Форма регистрации и ввода пароля 1\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojAssemblyReference.cache
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\COMP\source\repos\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojAssemblyReference.cache
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+E:\Универ\2 курс\2 семестр\(ГП) Групповая Динамика\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Dolohov\Downloads\Групповая Динамика\Fractonal Translation\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
